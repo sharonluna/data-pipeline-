@@ -22,10 +22,13 @@ web-crawler: Contains the script main.py to scrape population data from a public
 data-pipeline: Contains the script main.py to process and upload the scraped data to the cloud. It also includes a .env.example file for environment configuration.
 
 Requirements
+
 Python 3.13
+
 Required Python packages (install with pip install -r requirements.txt if provided)
 
 Environment Variables:
+
 Copy .env.example from the data-pipeline folder to .env and configure the following variables:
 
 AWS_ACCESS_KEY_ID: Your AWS access key
