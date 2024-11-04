@@ -3,6 +3,8 @@ Data Processing and Upload Pipeline
 This project is designed to scrape population data, transform it, and upload it to a cloud storage bucket. The project is organized into different folders for modularity, each serving a specific function in the pipeline.
 
 Project Structure
+
+```js
 ├── .gitignore
 ├── .python-version
 ├── data
