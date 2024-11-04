@@ -14,6 +14,7 @@ Project Structure
 │   └── .env.example      # Template for environment variables needed for cloud setup
 ├── web-crawler
 │   └── main.py           # Executes web scraping for population data
+```
 
 Folders
 data: This folder stores raw and processed data files.
